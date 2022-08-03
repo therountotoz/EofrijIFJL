@@ -6,7 +6,6 @@ labels: enhancement
 body:
   - type: input
     attributes:
-      label: Is your feature request related to a problem? Please describe.
       placeholder: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
     validations:
       required: false
@@ -21,7 +20,6 @@ body:
       
   - type: textarea
     attributes:
-      label: Describe alternatives you've considered
       placeholder: >-
         A clear and concise description of any alternative solutions or features you've considered.
     validations:
